@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553306184 source:c:\users\odm\desktop\预习\新建文件夹\计算器多文件练习\display.c
+	<stdio.h>
+
+1553305417 source:c:\users\odm\desktop\预习\新建文件夹\计算器多文件练习\getnum.c
+	<stdio.h>
+
+1553305329 source:c:\users\odm\desktop\预习\新建文件夹\计算器多文件练习\main.c
+	<stdio.h>
+	"getNum.h"
+	"display.h"
+
+1553306025 c:\users\odm\desktop\预习\新建文件夹\计算器多文件练习\getnum.h
+
+1553306034 c:\users\odm\desktop\预习\新建文件夹\计算器多文件练习\display.h
+
